@@ -1,0 +1,19 @@
+.topics {
+	background: rgb(2, 0, 36);
+	background: linear-gradient(
+		174deg,
+		rgba(2, 0, 36, 1) 0%,
+		rgba(8, 83, 180, 1) 100%,
+		rgba(36, 121, 187, 1) 100%
+	);
+
+	overflow: hidden;
+}
+
+.header {
+	background-image: url('https://t4.ftcdn.net/jpg/02/64/45/17/360_F_264451711_Gt3INmt26pjbTv7eanciQGHcX0hWKBFR.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 1rem;
+}

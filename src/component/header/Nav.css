@@ -1,0 +1,36 @@
+.nav {
+	justify-content: space-around;
+	display: flex;
+	text-decoration: none;
+	list-style: none;
+}
+.nav-container {
+	padding: 1rem;
+	box-shadow: 10px 10px 40px rgba(30, 100, 141, 0.24);
+	width: 100%;
+	background: rgb(2, 0, 36);
+	background: linear-gradient(
+		174deg,
+		rgba(2, 0, 36, 1) 0%,
+		rgba(8, 83, 180, 1) 82%,
+		rgba(36, 121, 187, 1) 94%
+	);
+}
+
+.nav-container a {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+}
+
+.nav-list {
+	width: 50%;
+}
+.nav-div {
+	width: 50%;
+}

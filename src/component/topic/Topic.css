@@ -1,0 +1,24 @@
+.topic {
+	background-color: rgb(12, 39, 70);
+	max-width: 350px;
+	border-radius: 10px;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+.topic img {
+	width: 100%;
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+
+.topic-btn {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	background-color: rgb(2, 64, 179);
+	padding: 10px;
+	border-radius: 5px;
+	margin-left: 10px;
+}
